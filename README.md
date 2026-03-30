@@ -6,7 +6,7 @@ Project focusing on predictive and statistical modelling to support resource all
 The repository is organised to reflect different stages of the analysis, including feature engineering, modelling, statistical testing and data analytics.
 
 For a detailed breakdown of the folder structure, see:
- `docs/repository_structure.md`
+ `project_structure.md`
 
 ## Overview
 
