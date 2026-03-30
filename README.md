@@ -21,10 +21,10 @@ The focus is on translating statistical and modelling outputs into decision-rele
 
 In a hospital and clinical settings, decisions need to be made under uncertainty:
 
-- How many high-risk patients should we expect?
-- Do we have sufficient beds and resources for abnormal cases?
-- Which patient groups require closer monitoring?
-- How should we balance early detection with avoiding unnecessary interventions?
+- How early can we identify high-risk patients using available data and how many high-risk patients should we expect?
+- Do we have sufficient capacity (beds, resources) for patients likely to have abnormal outcomes?
+- Which patient groups are at higher risk and may require closer monitoring?
+- What trade-offs exist between catching high-risk patients and avoiding false alarms?
 
 ## Key Questions
 
