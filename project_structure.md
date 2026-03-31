@@ -9,7 +9,7 @@ The project is organised to reflect the different stages of the analysis, from d
 ├── modelling/
 ├── statistics/
 ├── analytics/
-├── visuals/
+├── project_structure/
 └── README.md
 ```
 
@@ -56,12 +56,4 @@ Focused on business-facing analysis and reporting:
 - Power BI dashboards for visualisation
 
 Translates analysis into operational insights for decision-making.
-### 📁 `visuals/`
 
-Includes key plots used in the project:
-
-- ROC curves
-- sensitivity-specificity trade-off plots
-- length of stay visualisations
-
-Supports interpretation and communication of results.
