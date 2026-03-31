@@ -49,7 +49,7 @@ The project combines three components:
 
 - Statistical Analysis
   - Chi-square tests to identify associations between patient attributes
-  - ANOVA and non-parametric tests to analyse length of stay
+  - Non-parametric tests to analyse length of stay
 
 ## Key Results
 
@@ -126,7 +126,7 @@ To improve realism and enable meaningful analysis, key features were engineered:
 ## Deliverables
 - Predictive modelling (classification and evaluation)
 - Threshold optimisation analysis
-- Statistical testing (Chi-square, ANOVA, Kruskal–Wallis)
+- Statistical testing (Chi-square, Kruskal–Wallis)
 - Visualisations (ROC curves, sensitivity-specificity trade-offs)
 - Planned SQL and Power BI dashboard for operational insights
 ## Next Steps
