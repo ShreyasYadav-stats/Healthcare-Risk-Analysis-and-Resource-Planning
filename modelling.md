@@ -86,6 +86,8 @@ This suggests that the relationships in the data are relatively simple and do no
 
 ✅ The results indicate that predictive performance is limited by the available features rather than model complexity. 
 
+---
+
 ### Key Takeaways
 
 - Logistic regression provides the best balance of performance and interpretability  
