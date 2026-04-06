@@ -15,9 +15,9 @@ The analysis is driven by questions including:
 
 These queries show how data can be explored and broken down to answer practical questions.
 
-### Which admission types have above-average abnormal rates?
+### Admission Type Analysis: Abnormal Outcome Rates
 
-This analysis examines how abnormal test outcomes vary across different admission types, namely elective, urgent, and emergency.
+This analysis examines how abnormal test outcomes vary across different admission types, namely elective, urgent and emergency.
 
 Understanding this relationship helps identify whether certain admission pathways are associated with higher clinical risk and may require greater resource allocation.
 
@@ -27,9 +27,8 @@ Understanding this relationship helps identify whether certain admission pathway
 | Urgent        | 5585       | 702            | 0.1257        |
 | Elective      | 44450      | 5573           | 0.1254        |
 
-Emergency admissions exhibit the highest abnormal rate, noticeably above both urgent and elective cases.
+Emergency admissions exhibit a higher abnormal rate compared to urgent and elective cases. A chi-square test indicates a statistically significant association between admission type and abnormal outcomes.
 
-While urgent and elective admissions have similar abnormal rates, emergency cases show a clear increase in the likelihood of abnormal outcomes.
+However, the difference in abnormal rates is relatively small in magnitude. As discussed in the `statistics/` section, statistical significance does not imply practical significance.
 
-✅ Emergency admissions are associated with higher clinical risk and may require increased attention and resource allocation.
-
+✅ While admission type shows some association with abnormal outcomes, its practical impact is limited and may not be sufficient as a standalone risk indicator.
