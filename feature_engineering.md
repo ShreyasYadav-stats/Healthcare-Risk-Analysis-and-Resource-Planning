@@ -2,6 +2,8 @@
 
 This folder documents the transformations applied to the dataset to better represent realistic healthcare scenarios.
 
+---
+
 The original dataset ([link for reference](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/versions/2?resource=download)) contained 
 several variables that were uniformly distributed. 
 As a result, variables such as medical condition, length of stay and blood group did not reflect real-world patterns or dependencies.
