@@ -1,6 +1,6 @@
 ## 📁 `analytics/`
 
-This section focuses on using SQL to analyse the dataset from an operational perspective.
+This section focuses on using SQL to analyse the dataset from an operational perspective. The SQL queries used in this section are available in [analytics_SQL.md](https://github.com/ShreyasYadav-stats/Healthcare-Risk-Analysis-and-Resource-Planning/blob/main/analytics_SQL.md).
 
 ---
 
