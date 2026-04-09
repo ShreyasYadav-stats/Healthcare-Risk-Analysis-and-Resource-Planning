@@ -1,4 +1,4 @@
-## 📁 `SQL Queries`
+## 📁 `analytics_sql/`
 
 This file contains the SQL queries used to generate the results in `analytics.md`.
 
