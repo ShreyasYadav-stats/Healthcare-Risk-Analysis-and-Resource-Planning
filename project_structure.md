@@ -55,5 +55,5 @@ Focused on business-facing analysis and reporting:
 - SQL queries for aggregation and data exploration
 - Power BI dashboards for visualisation
 
-Translates analysis into operational insights for decision-making.
+Turns analysis into useful information for making decisions.
 
