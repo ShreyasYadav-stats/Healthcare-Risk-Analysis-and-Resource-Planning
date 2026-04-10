@@ -4,14 +4,24 @@ The project is organised to reflect the different stages of the analysis, from d
 
 ```text
 .
-├── data/
+├── README
+├── analytics/ 
+├── analytics_SQL/ 
+├── data/ 
 ├── feature_engineering/
 ├── modelling/
-├── statistics/
-├── analytics/
 ├── project_structure/
-└── README.md
+└── statistics/
 ```
+### 📁 `analytics/`
+
+Focused on business-facing analysis and reporting using SQL queries for aggregation and data exploration.
+
+Turns analysis into useful information for making decisions.
+
+### 📁 `analytics_SQL/`
+
+Contains all SQL used to obtain the results shown in 'analytics/'
 
 ### 📁 `data/`
 
@@ -38,22 +48,14 @@ Covers predictive modelling and evaluation:
 - threshold optimisation
 
 Focuses on understanding model performance and decision trade-offs.
+
 ### 📁 `statistics/`
 
 Contains statistical testing and inference:
 
 - Chi-square tests of association
-- ANOVA and non-parametric tests
+- Non-parametric tests
 - analysis of statistical vs practical significance
 
 Complements modelling by providing deeper insight into relationships within the data.
-
-### 📁 `analytics/`
-
-Focused on business-facing analysis and reporting:
-
-- SQL queries for aggregation and data exploration
-- Power BI dashboards for visualisation
-
-Turns analysis into useful information for making decisions.
 
